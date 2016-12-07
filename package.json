@@ -1,0 +1,15 @@
+{
+  "name": "crash_alerts",
+  "version": "1.0.0",
+  "description": "Get an alert in Slack when a Heroku process crashes.",
+  "main": "flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@datafire/heroku": "0.0.3",
+    "@datafire/slack": "0.0.3"
+  }
+}
