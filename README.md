@@ -1,3 +1,5 @@
+> Deprecated: needs to be updated for v2
+
 # Crashed Process Alerts
 Get an alert in Slack when a Heroku process crashes.
 
